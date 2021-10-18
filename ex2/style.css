@@ -1,0 +1,72 @@
+
+body{
+background-color:
+}
+h1{
+    color: seagreen;
+    
+}
+h2{
+    color:darkolivegreen;
+   
+}
+h3{
+    color:darkolivegreen;
+    
+}
+table td{
+    padding: 10px 10px;
+    border: darkslategrey solid 1px;
+    
+}
+th{
+     text-align:left ;
+     background-color: lightgrey;
+    
+}
+.images{
+    padding: 3px;
+    border:darkslategrey solid 3px ;
+    
+}
+p{
+    
+    font-weight: 200;
+    font-family: serif;
+   
+}
+h4{
+    font-size: 18px;
+    color:darkolivegreen;
+    
+}
+#logo{
+    float: right;
+}
+div{
+    position: absolute;
+    left: 150px;
+}
+#links{
+    position: fixed;
+}
+.videos{
+    padding: 3px;
+    border:3px dashed rgb(13, 119, 13)  ;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
